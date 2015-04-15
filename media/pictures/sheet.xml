@@ -1,0 +1,23 @@
+<TextureAtlas imagePath="sheet.png">
+	<SubTexture name="Run_out_of_dragons__by_fool_000.png" x="520" y="1757" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_001.png" x="0" y="1361" width="259" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_002.png" x="520" y="1559" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_003.png" x="261" y="1559" width="257" height="200"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_004.png" x="0" y="1559" width="259" height="201"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_005.png" x="0" y="1163" width="267" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_006.png" x="0" y="776" width="283" height="193"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_007.png" x="0" y="194" width="307" height="192"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_008.png" x="0" y="582" width="307" height="192"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_009.png" x="0" y="388" width="307" height="192"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_010.png" x="0" y="0" width="307" height="192"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_011.png" x="0" y="971" width="271" height="190"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_012.png" x="261" y="1761" width="257" height="191"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_013.png" x="285" y="776" width="256" height="197"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_014.png" x="269" y="1163" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_015.png" x="309" y="198" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_016.png" x="309" y="396" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_017.png" x="309" y="0" width="256" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_018.png" x="261" y="1361" width="259" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_019.png" x="0" y="1762" width="259" height="196"/>
+	<SubTexture name="Run_out_of_dragons__by_fool_020.png" x="522" y="1361" width="256" height="196"/>
+</TextureAtlas>
